@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franciscoborges2002">
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Franciscoborges2002/Franciscoborges2002/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 ![](https://komarev.com/ghpvc/?username=Franciscoborges2002&style=flat-square)
 
