@@ -18,8 +18,6 @@
 
 <a href="https://app.daily.dev/fborges"><img src="https://github.com/fborges/fborges/blob/master/ddevcard.svg" width="400" alt="Francisco's Dev Card"/></a>
 
-![](https://komarev.com/ghpvc/?username=Franciscoborges2002&style=flat-square)
-
 <!---
 Franciscoborges2002/Franciscoborges2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
