@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franciscoborges2002">
 
-<a href="https://app.daily.dev/fborges"><img src="https://github.com/fborges/fborges/blob/master/ddevcard.svg" width="400" alt="Francisco's Dev Card"/></a>
+<a href="https://app.daily.dev/fborges"><img src="https://github.com/Franciscoborges2002/Franciscoborges2002/blob/main/devcard.svg" width="400" alt="Francisco's Dev Card"/></a>
 
 <!---
 Franciscoborges2002/Franciscoborges2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
