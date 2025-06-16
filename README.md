@@ -12,7 +12,8 @@
 
 <a href="https://app.daily.dev/fborges"><img src="https://api.daily.dev/devcards/v2/RiMhhJ_7O.png?type=wide&r=xw5" width="300" alt="Francisco Borges's Dev Card"/></a>
 
-<iframe src="https://leetcodestatscard.fborges.dev/card?card=minimal&username=fborges&font=inter&theme=light&border=true&borderRadius=10&graph=true&links=true&streak=true&icons=true" height="400" width="400" title="leetcode Stats Card"></iframe>
+![LeetCode Stats](https://leetcodestatscard.fborges.dev/card?card=minimal&username=fborges&font=inter&theme=light&border=true&borderRadius=10&graph=true&links=true&streak=true&icons=true)
+
 
 <!---
 Franciscoborges2002/Franciscoborges2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
