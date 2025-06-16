@@ -11,7 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)`![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <a href="https://app.daily.dev/fborges"><img src="https://api.daily.dev/devcards/v2/RiMhhJ_7O.png?type=wide&r=xw5" width="300" alt="Francisco Borges's Dev Card"/></a>
-<iframe src="https://leetcodestatscard.fborges.dev/card?card=minimal&username=fborges&font=inter&theme=light&border=true&borderRadius=10&graph=true&links=true&streak=true&icons=true" height="400" width="400" alt="leetcode Stats Card"></iframe>
+
+<iframe src="https://leetcodestatscard.fborges.dev/card?card=minimal&username=fborges&font=inter&theme=light&border=true&borderRadius=10&graph=true&links=true&streak=true&icons=true" height="400" width="400" title="leetcode Stats Card"></iframe>
 
 <!---
 Franciscoborges2002/Franciscoborges2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
