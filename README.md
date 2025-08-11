@@ -14,9 +14,6 @@
 
 <a href="https://leetcodestatscard.fborges.dev/"><img src="https://leetcodestatscard.fborges.dev/api/card?card=minimal&username=fborges&font=inter&theme=light&border=true&borderRadius=10&graph=true&links=true&streak=true&icons=true" width="300" alt="Francisco Borges's Dev Card"/></a>
 
-![LeetCode Stats]()
-
-
 <!---
 Franciscoborges2002/Franciscoborges2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
