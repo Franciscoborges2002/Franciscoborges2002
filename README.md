@@ -12,8 +12,6 @@
 
 <a href="https://app.daily.dev/fborges"><img src="https://api.daily.dev/devcards/v2/RiMhhJ_7O.png?type=wide&r=xw5" width="300" alt="Francisco Borges's Dev Card"/></a>
 
-<a href="https://leetcodestatscard.fborges.dev/"><img src="https://leetcodestatscard.fborges.dev/api/image?card=minimal&username=fborges&font=inter&theme=light&border=true&borderRadius=10&graph=true&links=true&streak=true&icons=true" width="300" alt="Francisco Borges's Dev Card"/></a>
-
 [![fborges Leetcode StatsCard](https://leetcodestatscard.fborges.dev/api/image?card=minimal&username=fborges&font=inter&theme=light&border=true&graph=true&links=true&streak=true&icons=true)](https://leetcodestatscard.fborges.dev/card?card=minimal&username=fborges&font=inter&theme=light&border=true&graph=true&links=true&streak=true&icons=true)
 
 <!---
